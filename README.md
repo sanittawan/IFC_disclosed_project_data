@@ -36,7 +36,7 @@ In your shell, navigate to the root of the folder and execute below. Executing b
 $ python consolidate_data.py IS
 ```
 
-The consolidated files will be found in .\Investment_Services\Consolidated_data_set
+The consolidated files will be found in [.\Investment_Services\Consolidated_data_set](https://github.com/sanittawan/IFC_disclosed_project_data/tree/main/Investment_Services/Consolidated_data_set)
 
 For investment services data, one project can appear in more than one role because the difference comes from document types. One project can have multiple document types. The code for data consolidation produces two files.
 1. <date> IFC_Investment_disclosed_projects_text_data.csv - this file will have repeated project IDs among the rows
@@ -48,7 +48,7 @@ For Advisory services, execute the following:
 $ python consolidate_data.py AS
 ```
 
-The consolidated files will be found in .\Advisory_Services\Consolidated_data_set with file name <date> IFC_Advisory_disclosed_projects_text_data.csv
+The consolidated files will be found in [.\Advisory_Services\Consolidated_data_set](https://github.com/sanittawan/IFC_disclosed_project_data/tree/main/Advisory_Services/Consolidated_data_set) with file name <date> IFC_Advisory_disclosed_projects_text_data.csv
 
 ## Version & Dependecies
 
