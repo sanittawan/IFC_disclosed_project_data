@@ -32,7 +32,9 @@ To update data, first, go to IFC disclosure website and download the latest data
 
 In your shell, navigate to the root of the folder and execute below. Executing below will consolidate Investment Services data
 
-`$ python consolidate_data.py IS`
+```
+$ python consolidate_data.py IS
+```
 
 The consolidated files will be found in .\Investment_Services\Consolidated_data_set
 
@@ -42,7 +44,9 @@ For investment services data, one project can appear in more than one role becau
 
 For Advisory services, execute the following:
 
-`$ python consolidate_data.py AS`
+```
+$ python consolidate_data.py AS
+```
 
 The consolidated files will be found in .\Advisory_Services\Consolidated_data_set with file name <date> IFC_Advisory_disclosed_projects_text_data.csv
 
