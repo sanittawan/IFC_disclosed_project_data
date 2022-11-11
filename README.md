@@ -1,7 +1,7 @@
 ## IFC text data compilation from IFC disclosure website
 
-Developed by: Sanittawan Nikki Tan
-Repository available on: [GitHub]() 
+Developed by: Sanittawan Nikki Tan  
+Repository available on: [GitHub](https://github.com/sanittawan/IFC_disclosed_project_data)   
 
 The constraint is that the Excel extraction only allows the first 1,000 records to be downloaded at a time. Hence, we have to slice the data up as follows
 
@@ -50,5 +50,5 @@ The consolidated files will be found in .\Advisory_Services\Consolidated_data_se
 
 Code in python 3.9.13
 
-pandas==1.5.0
+pandas==1.5.0  
 numpy==1.23.3
