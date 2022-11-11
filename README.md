@@ -50,7 +50,7 @@ $ python consolidate_data.py AS
 
 The consolidated files will be found in [.\Advisory_Services\Consolidated_data_set](https://github.com/sanittawan/IFC_disclosed_project_data/tree/main/Advisory_Services/Consolidated_data_set) with file name <date> IFC_Advisory_disclosed_projects_text_data.csv
 
-## Version & Dependecies
+## Version & Dependencies
 
 Code in python 3.9.13
 
